@@ -1,0 +1,19 @@
+.button-add {
+    background-color: rgba(248, 27, 27, 0.774);
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    border: none;
+    font-size: 52px;
+    font-weight:700;
+    color: white;
+    box-shadow:0 5px 25px var(--red);
+    cursor:pointer;
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+  }

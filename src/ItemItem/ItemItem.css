@@ -1,0 +1,30 @@
+.ItemItem{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    list-style: none;
+    font-size: 20px;
+    background-color: rgba(255, 5, 5, 0.13);
+    width: 75vw;
+    padding: 8px;
+    margin: 8px;
+}
+
+.ItemText {
+    padding-left: 8px;
+}
+
+.IconDelete {
+    position:absolute;
+    top:-1vh;
+    right: -12px;
+    font-size: 28px;
+}
+
+.IconEdit {
+    position: absolute;
+    left: 12px;
+    top: 33.3%;
+    font-size: 24px;
+    /* color: var(--expensive); */
+}

@@ -1,0 +1,4 @@
+.Category-info-container {
+    display: flex;
+    justify-items: flex-start;
+}

@@ -1,0 +1,29 @@
+.ControlItem{
+    color: var(--black);
+    width: 80vw;
+    height: 20vh;
+    margin: 8px;
+    margin-bottom: 0;
+    border: 4px solid var(--black);
+    border-radius: 8px;
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item-income {
+    background-color: var(--income);
+}
+
+.item-expensive {
+    background-color: var(--expensive)
+}
+
+.item-saving {
+    background-color: var(--saving);
+}
+
+.item-balance {
+    background-color: var(--balance);
+}

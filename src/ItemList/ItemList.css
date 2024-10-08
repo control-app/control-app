@@ -1,0 +1,12 @@
+.item-container {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    justify-items: center;
+}
+
+.item-container h2{
+    margin-top: 16px;
+    margin-bottom: 0;
+    align-self: center;
+}

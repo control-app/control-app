@@ -1,0 +1,14 @@
+.ModalBackground {
+    background-color: rgba(209, 135, 122, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 8px;
+    padding: 10%;
+}
